@@ -1,2 +1,2 @@
-# AdaSB
-🧀Pytorch code for the AdaSB optimiser.
+# AdaBS
+🧀Pytorch code for the AdaBS optimizer.
