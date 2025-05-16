@@ -1,6 +1,6 @@
 """
 Pytorch implement of AdaBS optimizer.
-Wang Y, Ding L, Shi P, et al. Improving Generalization Performance of Adaptive Gradient Method via Bounded Step Sizes[J]. Neurocomputing, 2024: 128966.
+Improving Generalization Performance of Adaptive Gradient Method via Bounded Step Sizes[J]. Neurocomputing, 2024: 128966.
 """
 
 import torch
